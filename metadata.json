@@ -1,6 +1,8 @@
 {
-  "name": "ROCK AND BIRRA AND PIZZA Y ZOMBIS",
-  "description": "Aventura gráfica point & click de supervivencia postapocalíptica con estética de rock de garaje, humor absurdo, combate por trivias de rock y cine, y la misión de conseguir pizza y cerveza antes de que el mundo se termine de ir a la mierda. #YConCervezaMejor",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "name": "Rock and Birra y Zombis",
+  "description": "Radio streaming en vivo, psychobilly, horror punk, cerveza artesanal y juego arcade retro de supervivencia zombie.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
