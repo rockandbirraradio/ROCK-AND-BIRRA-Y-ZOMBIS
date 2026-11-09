@@ -1,0 +1,16 @@
+{
+  "name": "Rock And Birra: ¡Hay un infiltrado!",
+  "short_name": "Infiltrado RB",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101126",
+  "theme_color": "#101126",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
